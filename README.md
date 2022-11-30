@@ -153,5 +153,8 @@ while True:
 
 
 ### K)eluar
+  
+<p> Click k if you want to ended the program <p>
+  
 <img width="495" alt="8" src="https://user-images.githubusercontent.com/118233561/204759254-4afe3e68-c0e0-44f8-8de2-51f1671645f2.png">
 
