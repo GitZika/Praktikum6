@@ -2,7 +2,7 @@
 
 ### Name   :   Azhyka Rizki Ramadhan
 ### NIM     :   312110469
-### Class   :   TI.21.C1
+### Class   :   TI.22.A3
 
 # Tugas Bahasa Pemrograman 
 
@@ -12,7 +12,7 @@
 
 <p> This is the program code <p>
 
-``
+```
 import math
 
 a = lambda x: x ** 2
@@ -25,9 +25,11 @@ c = lambda *args : sum(args)/len(args)
 print(c(5,7,9,11,10))
 
 d = lambda s: "".join(set(s))
-print(d("Tertimpa"))
-```
+print(d("Tertimpa")) ```
+
+
 <p> The output will be like this <p>
+
 <img width="194" alt="salah" src="https://user-images.githubusercontent.com/118233561/205201377-f86383ee-f2bf-424a-84a3-befb2eaa36c0.png">
 
 
