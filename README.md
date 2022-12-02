@@ -8,32 +8,28 @@
 
 
 ## Latihan 1
-<img width="599" alt="1" src="https://user-images.githubusercontent.com/118233561/204750979-3c06dc9f-87fd-40b1-8087-ad6efff91c00.png">
+
 
 <p> This is the program code <p>
 
-```python
+``
 import math
-def a(x):
-  return x**2
-a = lambda x : x**2
-print(a(2))
-def b(x, y):
-  return math.sqrt(x**2 + y**2)
-b = lambda x, y : x ** 2 + y ** 2
-print(b(2, 2))
-def c(*args):
-  return sum(args)/len(args)
-c = lambda *args : sum(args)/len(args)
-print(c(1,2,3,4,5))
-def d(s):
-  return "".join(set(s))
-d = lambda s: "".join(set(s))
-print(d("buku"))
 
+a = lambda x: x ** 2
+print(a(46))
+
+b = lambda x,y: x**2 + y**2
+print(b(4,6))
+
+c = lambda *args : sum(args)/len(args)
+print(c(5,7,9,11,10))
+
+d = lambda s: "".join(set(s))
+print(d("Tertimpa"))
 ```
 <p> The output will be like this <p>
-<img width="122" alt="2" src="https://user-images.githubusercontent.com/118233561/204751407-a4d86449-c70e-4304-b196-45a7826b7f87.png">
+<img width="194" alt="salah" src="https://user-images.githubusercontent.com/118233561/205201377-f86383ee-f2bf-424a-84a3-befb2eaa36c0.png">
+
 
 
 ## Tugas Praktikum
