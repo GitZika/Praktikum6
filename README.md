@@ -9,6 +9,8 @@
 
 ## Latihan 1
 
+<img width="599" alt="1" src="https://user-images.githubusercontent.com/118233561/205420649-2616b0a5-6cce-4477-a212-e292aaaef859.png">
+
 
 <p> This is the program code <p>
 
