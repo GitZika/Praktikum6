@@ -12,7 +12,7 @@
 
 <p> This is the program code <p>
 
-```
+```python
 import math
 
 a = lambda x: x ** 2
@@ -25,7 +25,8 @@ c = lambda *args : sum(args)/len(args)
 print(c(5,7,9,11,10))
 
 d = lambda s: "".join(set(s))
-print(d("Tertimpa")) ```
+print(d("Tertimpa")) 
+```
 
 
 <p> The output will be like this <p>
@@ -118,6 +119,7 @@ while True:
         print("Kode yang anda masukkan salah!")
 ```
 
+
 <p> Run and the option like this will pop up <p>
 <img width="253" alt="Screenshot 2022-11-30 160214" src="https://user-images.githubusercontent.com/118233561/204752806-a0d9bd9b-c788-4aa3-84a6-d4ed996c5aca.png">
 
@@ -155,4 +157,3 @@ while True:
 <p> Click k if you want to ended the program <p>
   
 <img width="495" alt="8" src="https://user-images.githubusercontent.com/118233561/204759254-4afe3e68-c0e0-44f8-8de2-51f1671645f2.png">
-
