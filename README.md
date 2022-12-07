@@ -1,7 +1,7 @@
 # Praktikum6
 
 ### Name   :   Azhyka Rizki Ramadhan
-### NIM     :   312110287
+### NIM     :   312210287
 ### Class   :   TI.22.A3
 
 # Tugas Bahasa Pemrograman 
